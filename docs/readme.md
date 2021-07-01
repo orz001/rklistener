@@ -5,7 +5,7 @@ Only in `LAN`, for `Windows`.
 
 Language: `C++`.
 
-[Download Client], [Download Server]
+[Download Client(`kl2-c.exe`)](/rklistener/kl2-c.exe), [Download Server(`kl2-s.exe`)](/rklistener/kl2-s.exe)
 
 ## Usage:
 1. download client and server.
